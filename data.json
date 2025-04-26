@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amazing Gadget",
+    "description": "A revolutionary gadget that will change your life.",
+    "price": 99.99
+  },
+  {
+    "name": "Super Software",
+    "description": "Powerful software to boost your productivity.",
+    "price": 49.00
+  },
+  {
+    "name": "Cool T-Shirt",
+    "description": "A stylish and comfortable t-shirt for everyday wear.",
+    "price": 25.50
+  }
+]
